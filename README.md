@@ -1,12 +1,12 @@
-# baseDatos
-# 💈Grupo-5-FurnituresDigitalMarket 💈
+# 
+# 💾 Entrega de Base de datos 💾
 
-## Furnitures Digital Market 🚀
-*Esta tienda electrónica fue concebida con la finalidad de antender las necesidades de un exclusivo y exigente público, ofreciendo productos de alta gama, fabricados bajo los estandares más altos de calidad y diseño.* :star2:🥇:star2:
+## Base de datos para gestionar notas 🚀
+*La base de datos tiene como objetivo almacenar todas las gestiones realizadas por los usuarios especifimente para la creacion, modificación, bloqueo y eliminación de notas* :star2:🥇:star2:
 
-*Nuestro enfoque está dirigido a una parte de la población denomida como, Generaciòn Y. Caracterizada por estar abiertos al cambio y su conexión con el mundo globalizado además son nativos digitales* 📱 🖥️ 💻
+*Esta destinada para ser usada en la app de notas* 📱 🖥️ 💻
 
-## Fuentes de inspiración 🎨
+## Descripcion de tablas: 📋
 :one: [Ikea](https://www.ikea.com)
 
 :two: [Pardo](https://www.pardo.com.ar)
