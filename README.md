@@ -7,17 +7,18 @@
 *Esta destinada para ser usada en la app de notas* 📱 🖥️ 💻
 
 ## Descripcion de tablas: 📋
-:one: ### usuarios: Almacena la información del usuario que va a generar las gestiones en las notas
+:one: - ***usuarios:*** 
+>Almacena la información del usuario que va a generar las gestiones en las notas
 
-:two: ### notas: Almacena toda la información referente a las notas gestionadas por los usuarios.
+:two: ## notas: Almacena toda la información referente a las notas gestionadas por los usuarios.
 
-:three: ### categorias: Contendra información referente a las distintas categorias que puede tener una notas (Ej: musica 🎵, arte 🎨, etc...)
+:three: ## categorias: Contendra información referente a las distintas categorias que puede tener una notas (Ej: musica 🎵, arte 🎨, etc...)
 
-:four: ### notas_categorias: Tabla de relación o también conocida como tabla pivot que sera usada para relacionar una nota con una o mas categorias.
+:four: ## notas_categorias: Tabla de relación o también conocida como tabla pivot que sera usada para relacionar una nota con una o mas categorias.
 
-:five: ### gestiones: Tabla que almacenara los valores que puedan tomar las gestiones realizadas sobre las notas (Ej: crear 🖊️, bloquear 🔐, etc...)
+:five: ## gestiones: Tabla que almacenara los valores que puedan tomar las gestiones realizadas sobre las notas (Ej: crear 🖊️, bloquear 🔐, etc...)
 
-6️⃣ ### notas_gestiones_usuarios: Tabla pivot que se encargara de almacenar las distintas gestiones realizadas en una o mas notas. Con esta tabla podemos ver que nota de modifica, quien realizo la modificacion, cuando se realizo y cual fue la acción realizada.
+6️⃣ ## notas_gestiones_usuarios: Tabla pivot que se encargara de almacenar las distintas gestiones realizadas en una o mas notas. Con esta tabla podemos ver que nota de modifica, quien realizo la modificacion, cuando se realizo y cual fue la acción realizada.
 
 
 ## Integrante: 🤩
