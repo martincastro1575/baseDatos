@@ -7,7 +7,7 @@
 *Esta destinada para ser usada en la app de notas* 📱 🖥️ 💻
 
 ## Descripcion de tablas: 📋
-:one: - ***usuarios:*** 
+- ***usuarios:*** 
 >Almacena la información del usuario que va a generar las gestiones en las notas
 
 :two: ## notas: Almacena toda la información referente a las notas gestionadas por los usuarios.
